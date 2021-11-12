@@ -32,4 +32,6 @@ Firmware update.
 sudo ./flash.sh
 ```
 
+## Requirements
 
+The tool assumes that you have the dfu-util tool installed and are using a single-board Orange Pi computer.
