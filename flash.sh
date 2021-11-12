@@ -2,8 +2,8 @@
 # wykys 2021
 # Lazy Firmware Update
 
-RESET_PIN 25
-BOOT0_PIN 23
+RESET_PIN=25
+BOOT0_PIN=23
 
 GPIO_DRIVER="./wiringOP/gpio/gpio"
 
