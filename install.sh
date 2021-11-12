@@ -5,5 +5,3 @@
 cd wiringOP
 ./build clean
 ./build
-
-
