@@ -8,7 +8,7 @@ BOOT0_PIN 23
 GPIO_DRIVER="./wiringOP/gpio/gpio"
 
 DEVICE="0483:df11"
-FIRMWARE="~/klipper/out/klipper.bin"
+FIRMWARE="/home/wcube/klipper/out/klipper.bin"
 
 ###############################################################################
 
